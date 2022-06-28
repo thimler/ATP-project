@@ -1,5 +1,5 @@
 # ATP-project
-This project aimed to investigate the ATP data between 2000 and 2019. Ultimately, a classifier will be set to predict future match winners. This project is only based on men tennis matches.
+This project aimed to investigate the ATP data between 2000 and 2022. Ultimately, a classifier will be set to predict future match winners. The program will be able to predict the turnament winner based on the draw.  This project is only based on men tennis matches.
 
 
 
